@@ -47,7 +47,7 @@
 
 <p>
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ✌️ &emsp; I am a cloud architect, a backend software engineer, full-stack web developer, and a former 3D animation artist, I thrive on bringing creative ideas to life through innovative solutions <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: mikekirutic@gmail.com<br/><br/>
 
