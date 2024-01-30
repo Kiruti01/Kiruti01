@@ -30,7 +30,6 @@
  <a href="https://linkedin.com/in/michael kiruti" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="michaelkiruti"/>
  </a>
- <p align="center">- 👨‍💻 My animation projects are available at [https://vimeo.com/742595121](https://vimeo.com/742595121)</p>
 
  <a href="https://twitter.com/the_lordmikey" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -40,6 +39,7 @@
  </a> 
  </p>
 <br />
+ <p align="center">- 👨‍💻 My animation projects are available at [https://vimeo.com/742595121](https://vimeo.com/742595121)</p>
 
 <!-- About Section -->
 
