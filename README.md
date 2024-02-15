@@ -38,7 +38,7 @@
  </a> 
  </p>
 <br />
- <p align="center">- 👨‍💻 My animation projects are available at [https://vimeo.com/742595121](https://vimeo.com/742595121)</p>
+ <p align="center">- 👨‍💻 My animation projects are available at [!Vimeo](https://vimeo.com/742595121)</p>
 
 <!-- About Section -->
 
