@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Kiruti01&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/018e2ca4-5b50-45bd-bb66-6842444a10fb/project/018e2ca8-17dd-4818-924f-dfe91b218c60.svg)](https://wakatime.com/badge/user/018e2ca4-5b50-45bd-bb66-6842444a10fb/project/018e2ca8-17dd-4818-924f-dfe91b218c60)
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h3 align="center">
