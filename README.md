@@ -123,3 +123,11 @@
 </a>
 
 ![Kiruti01's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kiruti01&custom_title=Kiruti01's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Kiruti01&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Kiruti01&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
