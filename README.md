@@ -127,7 +127,3 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Kiruti01&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Kiruti01&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
