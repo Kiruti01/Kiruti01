@@ -92,7 +92,7 @@
 
 [![Next-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Kiruti01&repo=Next-Dashboard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=150)](https://github.com/Kiruti01/Next-Dashboard)
 [![Booking-Com](https://github-readme-stats.vercel.app/api/pin/?username=Kiruti01&repo=booking-com&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=150)](https://github.com/Kiruti01/booking-com)
-[![chat_next](https://github-readme-stats.vercel.app/api/pin/?username=Kiruti01&repo=chat_next&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=150)](https://github.com/Kiruti01/urfolio)
+[![TrackSmart-4.0_Budget-Tracker_](https://github-readme-stats.vercel.app/api/pin/?username=Kiruti01&repo=TrackSmart-4.0_Budget-Tracker_&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=150)](https://github.com/Kiruti01/urfolio)
 [![Finance-Tracker-2.0](https://github-readme-stats.vercel.app/api/pin/?username=Kiruti01&repo=Finance-Tracker-2.0&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF&height=150)](https://github.com/Kiruti01/Finance-Tracker-2.0)
 [![Royal-Bush-Safaris-NextJs](https://github-readme-stats.vercel.app/api/pin/?username=Kiruti01&repo=Royal-Bush-Safaris-NextJs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FB&height=150)](https://github.com/Kiruti01/Royal-Bush-Safaris-NextJs)
 
